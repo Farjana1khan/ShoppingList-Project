@@ -1,0 +1,22 @@
+
+
+.shadow-sm{
+     
+       box-shadow: black 0px 2px 8px 0px;
+}
+
+.logo{
+      color: deepskyblue;
+      font-weight: 600;
+}
+
+.active{
+  
+      font-weight: 600;
+     
+}
+
+.navbar-shadow{
+ box-shadow: black 0px 0px 5px 0px;
+}
+

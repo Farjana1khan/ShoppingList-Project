@@ -1,0 +1,58 @@
+/*  */
+
+.card-body {
+  margin: 0% 0% 0% 0%;
+  padding: 0% 0%;
+}
+
+
+
+.card {
+  margin-bottom: 2rem;
+  box-shadow: 3px 3px 3px 3px #f0eeee;
+  padding: 10px;
+
+  border-radius: 5px;
+
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.container {
+  align-items: center;
+  margin-left: 50px;
+
+  margin-bottom: 40px;
+}
+
+img {
+  height: 50%;
+  width: auto;
+  
+}
+
+
+.card-price {
+  padding-top: 0px;
+}
+
+.card-price {
+  font-size: 0.8rem;
+  font-weight: 400;
+  white-space: nowrap;
+  overflow: hidden;
+
+  text-overflow: ellipsis;
+  color: rgba(25, 231, 231, 0.8);
+}
+
+h5 {
+   
+  font-size: 0.8rem;
+  font-weight: 400;
+}
+
+
+
+
+
+
